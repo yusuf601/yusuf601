@@ -27,8 +27,6 @@
 11. Under "Device & app permissions", select "repo" with read and write permissions (this allows the GitHub Actions workflow to interact with your repository).
 12. Click "Save".
 
-Note: For enhanced security, consider creating a personal access token with the minimum required scopes (e.g., repo).
-
 ### 3. Fork the Repository:
 1. Navigate to the desired GitHub repository you want to integrate with Wakatime.
 2. Click the Fork button in the top right corner. This creates a copy of the repository in your own GitHub account.
@@ -47,7 +45,6 @@ Note: For enhanced security, consider creating a personal access token with the 
 4. Paste the following content into the file, replacing `<WAKAKATIME_API_KEY>` with your actual Wakatime API key:
 
 ```yaml
-# Your YAML content here
 ```bash
 name: Update README with Wakatime Stats
 
