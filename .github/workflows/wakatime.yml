@@ -19,7 +19,7 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
           COMMIT_MESSAGE: "Updated with dev metrics"
           COMMIT_USERNAME: "readme-bot"
           SHOW_PROFILE_VIEWS: "True"
