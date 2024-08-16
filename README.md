@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-625-blue)
 
@@ -64,5 +64,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 16:24:39 UTC
+ Last Updated on 16/08/2024 18:24:45 UTC
 <!--END_SECTION:waka-->
