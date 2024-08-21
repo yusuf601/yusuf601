@@ -69,8 +69,8 @@ C++                      2 repos             ███░░░░░░░░�
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  628 Karma Points           
-🌸  Completed 2 tasks today           
+🏆  662 Karma Points           
+🌸  Completed 0 tasks today           
 ✅  Completed 17 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
