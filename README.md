@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-673-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 33.4 kB Digunakan di GitHub Storage 
- > 
-> 🏆 240 Kontribusi pada 2024
+> 📦 33.5 kB Digunakan di GitHub Storage 
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
@@ -34,17 +32,17 @@ Minggu                   21 commits          ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-C++                      10 hrs 14 mins      ████████████████████░░░░░   79.22 % 
-Markdown                 2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+C++                      10 hrs 35 mins      ████████████████████░░░░░   81.86 % 
+Markdown                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editor: 
-VS Code                  12 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Linux                    12 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa JavaScript** 
@@ -64,7 +62,7 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2024 18:24:30 UTC
+ Last Updated on 23/08/2024 20:20:00 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
