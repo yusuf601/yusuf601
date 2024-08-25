@@ -1,30 +1,30 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-344-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-317-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 47.2 kB Digunakan di GitHub Storage 
+> 📦 47.3 kB Digunakan di GitHub Storage 
  > 
-> 🏆 243 Kontribusi pada 2024
+> 🏆 252 Kontribusi pada 2024
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
-> 📜 38 Repositori publik 
+> 📜 39 Repositori publik 
  > 
 > 🔑 6 Repositori pribadi 
  > 
 📅 **Paling produktif saat Jumat** 
 
 ```text
-Senin                    43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Selasa                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Rabu                     45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Kamis                    63 commits          █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Jumat                    74 commits          ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Sabtu                    29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Minggu                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Senin                    43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Selasa                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Rabu                     45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Kamis                    63 commits          █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Jumat                    74 commits          █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Sabtu                    29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Minggu                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 ```
 
 
@@ -64,7 +64,7 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2024 12:32:43 UTC
+ Last Updated on 25/08/2024 14:15:26 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
