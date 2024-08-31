@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-55-blue)
 
@@ -64,7 +64,7 @@ C++                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2024 16:22:57 UTC
+ Last Updated on 31/08/2024 18:23:38 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
