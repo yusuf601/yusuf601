@@ -187,14 +187,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">yusuf601/yusuf601</span>
+                                        <span class="repo">yusuf601/Tugas-Kalkulus-2-with-coding</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#70253c8</div>
-                                        <div class="message">Updated with dev metrics</div>
+                                        <div class="sha">#7043823</div>
+                                        <div class="message">Delete TASK 2 CALCULUS REVISION.ipynb</div>
                                     </div>
                                 </div>
                             </section>
@@ -204,7 +204,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2024, 01:28:28 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2024, 03:21:46 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
