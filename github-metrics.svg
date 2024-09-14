@@ -187,14 +187,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">yusuf601/Tugas-Kalkulus-2-with-coding</span>
+                                        <span class="repo">yusuf601/yusuf601</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f948532</div>
-                                        <div class="message">Rename PASTI_NGK_SALAH.ipynb to sampah/PASTI_NGK_SALAH.ipynb.unused</div>
+                                        <div class="sha">#2217e76</div>
+                                        <div class="message">Updated with dev metrics</div>
                                     </div>
                                 </div>
                             </section>
@@ -204,7 +204,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2024, 21:17:09 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2024, 23:23:47 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
