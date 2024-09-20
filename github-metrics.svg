@@ -187,14 +187,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">yusuf601/probably-homework-coding</span>
+                                        <span class="repo">yusuf601/yusuf601</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1845ff5</div>
-                                        <div class="message">feat:add documentation in readme</div>
+                                        <div class="sha">#3c191d1</div>
+                                        <div class="message">Updated with dev metrics</div>
                                     </div>
                                 </div>
                             </section>
@@ -204,7 +204,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2024, 21:19:47 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2024, 23:25:31 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
