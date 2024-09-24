@@ -1,30 +1,28 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-3-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 55.1 kB Digunakan di GitHub Storage 
- > 
-> 🏆 322 Kontribusi pada 2024
+> 📦 55.2 kB Digunakan di GitHub Storage 
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
-> 📜 48 Repositori publik 
+> 📜 49 Repositori publik 
  > 
 > 🔑 8 Repositori pribadi 
  > 
 📅 **Paling produktif saat Jumat** 
 
 ```text
-Senin                    57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Selasa                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Rabu                     63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Kamis                    79 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Jumat                    101 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Sabtu                    52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Minggu                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Senin                    57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Selasa                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Rabu                     63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Kamis                    79 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Jumat                    101 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Sabtu                    52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Minggu                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 ```
 
 
@@ -64,7 +62,7 @@ HTML                     3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2024 14:18:06 UTC
+ Last Updated on 24/09/2024 16:25:54 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
