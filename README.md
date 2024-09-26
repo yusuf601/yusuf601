@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-2-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 55.1 kB Digunakan di GitHub Storage 
+> 📦 55.2 kB Digunakan di GitHub Storage 
+ > 
+> 🏆 343 Kontribusi pada 2024
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
@@ -32,17 +34,17 @@ Minggu                   37 commits          ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-C++                      8 hrs 1 min         ███████████████████░░░░░░   76.31 % 
-Markdown                 2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+C++                      8 hrs 34 mins       ███████████████████░░░░░░   77.54 % 
+Markdown                 2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editor: 
-VS Code                  10 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Linux                    10 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa C++** 
@@ -62,7 +64,7 @@ HTML                     3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2024 18:26:37 UTC
+ Last Updated on 26/09/2024 20:21:41 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
