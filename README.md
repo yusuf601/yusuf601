@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-2-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 55.0 kB Digunakan di GitHub Storage 
+> 📦 55.1 kB Digunakan di GitHub Storage 
  > 
-> 🏆 340 Kontribusi pada 2024
+> 🏆 342 Kontribusi pada 2024
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
-> 📜 50 Repositori publik 
+> 📜 51 Repositori publik 
  > 
 > 🔑 9 Repositori pribadi 
  > 
@@ -47,11 +47,11 @@ Linux                    2 hrs 4 mins        ███████████�
 **Kebanyakan menulis dalam bahasa C++** 
 
 ```text
-C++                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Jupyter Notebook         5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+C++                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Jupyter Notebook         5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 ```
 
 
@@ -61,7 +61,7 @@ HTML                     3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2024 14:17:03 UTC
+ Last Updated on 05/10/2024 16:23:35 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
