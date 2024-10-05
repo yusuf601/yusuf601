@@ -66,7 +66,7 @@ HTML                     3 repos             ███░░░░░░░░�
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  923 Karma Points           
+🏆  1,006 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 25 tasks so far           
 ⏳  Longest streak is 1 days
