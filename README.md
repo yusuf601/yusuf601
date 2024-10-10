@@ -1,11 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-2-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 57.2 kB Digunakan di GitHub Storage 
+> 📦 57.3 kB Digunakan di GitHub Storage 
  > 
 > 🏆 349 Kontribusi pada 2024
  > 
@@ -15,38 +13,6 @@
  > 
 > 🔑 9 Repositori pribadi 
  > 
-📅 **Paling produktif saat Jumat** 
-
-```text
-Senin                    57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Selasa                   71 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Rabu                     77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Kamis                    90 commits          █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Jumat                    101 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-Sabtu                    53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Minggu                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-```
-
-
-📊 **Minggu ini menghabiskan waktu di** 
-
-```text
-🕑︎ Zona waktu: Asia/Jakarta
-
-💬 Bahasa: 
-C++                      7 hrs 49 mins       ██████████████████████░░░   88.10 % 
-Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editor: 
-VS Code                  8 hrs 52 mins       █████████████████████████   100.00 % 
-
-💻 Sistem Operasi: 
-Linux                    8 hrs 52 mins       █████████████████████████   100.00 % 
-```
-
 **Kebanyakan menulis dalam bahasa C++** 
 
 ```text
@@ -64,7 +30,7 @@ HTML                     3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2024 04:24:02 UTC
+ Last Updated on 10/10/2024 06:28:59 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
