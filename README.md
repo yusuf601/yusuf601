@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 63.7 kB Digunakan di GitHub Storage 
+> 📦 63.9 kB Digunakan di GitHub Storage 
  > 
 > 🏆 338 Kontribusi pada 2024
  > 
@@ -34,14 +34,15 @@ Minggu                   44 commits          ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Makassar
 
 💬 Bahasa: 
-C++                      3 hrs 37 mins       ███████████████████████░░   92.80 % 
-Git Config               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+C++                      4 hrs 10 mins       ███████████████████████░░   93.61 % 
+Git Config               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editor: 
-VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Linux                    3 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa C++** 
@@ -61,7 +62,7 @@ JavaScript               4 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2024 16:26:59 UTC
+ Last Updated on 22/11/2024 18:28:56 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
