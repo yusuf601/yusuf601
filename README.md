@@ -5,7 +5,7 @@
 
 **🐱 Dataku di GitHub** 
 
-> 📦 66.9 kB Digunakan di GitHub Storage 
+> 📦 64.7 kB Digunakan di GitHub Storage 
  > 
 > 🏆 0 Kontribusi pada 2025
  > 
@@ -34,13 +34,13 @@ Minggu                   44 commits          ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Makassar
 
 💬 Bahasa: 
-C++                      19 mins             █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 🔥 Editor: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 💻 Sistem Operasi: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 ```
 
 **Kebanyakan menulis dalam bahasa C++** 
@@ -60,7 +60,7 @@ JavaScript               4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2025 02:49:47 UTC
+ Last Updated on 22/01/2025 04:24:09 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
