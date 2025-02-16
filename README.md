@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 66.8 kB Digunakan di GitHub Storage 
+> 📦 67.0 kB Digunakan di GitHub Storage 
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
@@ -32,13 +32,15 @@ Minggu                   51 commits          ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Makassar
 
 💬 Bahasa: 
-Other                    0 secs              █████████████████████████   100.00 % 
+Python                   35 mins             █████████████████████████   99.70 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editor: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    35 mins             █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa C++** 
@@ -58,7 +60,7 @@ JavaScript               4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2025 16:22:32 UTC
+ Last Updated on 16/02/2025 18:25:34 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
