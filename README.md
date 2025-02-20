@@ -5,9 +5,7 @@
 
 **🐱 Dataku di GitHub** 
 
-> 📦 67.3 kB Digunakan di GitHub Storage 
- > 
-> 🏆 20 Kontribusi pada 2025
+> 📦 65.0 kB Digunakan di GitHub Storage 
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
@@ -63,7 +61,7 @@ JavaScript               4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2025 14:20:38 UTC
+ Last Updated on 20/02/2025 16:27:41 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
