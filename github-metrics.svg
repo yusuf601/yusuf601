@@ -187,14 +187,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">yusuf601/yusuf601</span>
+                                        <span class="repo">yusuf601/HMTI</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c3acc3e</div>
-                                        <div class="message">Updated with dev metrics</div>
+                                        <div class="sha">#781e195</div>
+                                        <div class="message">feat:menyelesaikan soal nomor 3</div>
                                     </div>
                                 </div>
                             </section>
@@ -204,7 +204,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2025, 19:41:48 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Feb 2025, 21:21:29 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
