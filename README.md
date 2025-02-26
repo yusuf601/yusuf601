@@ -1,17 +1,19 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 75.2 kB Digunakan di GitHub Storage 
+> 📦 75.3 kB Digunakan di GitHub Storage 
+ > 
+> 🏆 29 Kontribusi pada 2025
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
-> 📜 57 Repositori publik 
+> 📜 56 Repositori publik 
  > 
-> 🔑 20 Repositori pribadi 
+> 🔑 21 Repositori pribadi 
  > 
 📅 **Paling produktif saat Jumat** 
 
@@ -32,15 +34,16 @@ Minggu                   51 commits          ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Makassar
 
 💬 Bahasa: 
-Python                   1 hr 55 mins        █████████████████░░░░░░░░   68.88 % 
-C++                      51 mins             ████████░░░░░░░░░░░░░░░░░   30.89 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+C++                      4 hrs 19 mins       █████████████████░░░░░░░░   69.00 % 
+Python                   1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editor: 
-VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Linux                    2 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa C++** 
@@ -60,7 +63,7 @@ JavaScript               4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2025 16:28:11 UTC
+ Last Updated on 26/02/2025 18:29:07 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
