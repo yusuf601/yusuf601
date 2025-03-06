@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 76.0 kB Digunakan di GitHub Storage 
+> 📦 76.2 kB Digunakan di GitHub Storage 
  > 
-> 🏆 29 Kontribusi pada 2025
+> 🏆 30 Kontribusi pada 2025
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
-> 📜 57 Repositori publik 
+> 📜 58 Repositori publik 
  > 
 > 🔑 22 Repositori pribadi 
  > 
@@ -34,17 +34,17 @@ Minggu                   51 commits          ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Makassar
 
 💬 Bahasa: 
-Python                   57 mins             ████████████████░░░░░░░░░   65.05 % 
-C++                      16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+C++                      2 hrs 16 mins       ████████████████░░░░░░░░░   65.48 % 
+Python                   57 mins             ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editor: 
-VS Code                  1 hr 12 mins        █████████████████████░░░░   82.49 % 
-Cursor                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+VS Code                  3 hrs 13 mins       ███████████████████████░░   92.61 % 
+Cursor                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 💻 Sistem Operasi: 
-Linux                    1 hr 28 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa C++** 
@@ -64,7 +64,7 @@ JavaScript               4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2025 16:27:10 UTC
+ Last Updated on 06/03/2025 18:29:13 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
