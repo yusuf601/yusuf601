@@ -187,14 +187,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">yusuf601/yusuf601</span>
+                                        <span class="repo">yusuf601/Metode_Numerik</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5d2aa58</div>
-                                        <div class="message">Updated with dev metrics</div>
+                                        <div class="sha">#625e5df</div>
+                                        <div class="message">Menyelesaikan regula falsi</div>
                                     </div>
                                 </div>
                             </section>
@@ -204,7 +204,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Mar 2025, 13:31:24 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Mar 2025, 15:29:56 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
