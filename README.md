@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-13-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-7-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 75.7 kB Digunakan di GitHub Storage 
+> 📦 75.8 kB Digunakan di GitHub Storage 
  > 
 > 🏆 39 Kontribusi pada 2025
  > 
@@ -34,17 +34,17 @@ Minggu                   57 commits          ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Makassar
 
 💬 Bahasa: 
-C++                      9 hrs 43 mins       ████████████████████████░   97.01 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+C++                      10 hrs 40 mins      ████████████████████████░   96.71 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editor: 
-VS Code                  9 hrs 47 mins       ████████████████████████░   97.71 % 
-Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+VS Code                  10 hrs 38 mins      ████████████████████████░   96.36 % 
+Neovim                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Sistem Operasi: 
-Linux                    10 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    11 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa C++** 
@@ -64,7 +64,7 @@ JavaScript               4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2025 16:24:21 UTC
+ Last Updated on 22/03/2025 18:27:15 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
