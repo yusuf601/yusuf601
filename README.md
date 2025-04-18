@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 76.3 kB Digunakan di GitHub Storage 
+> 📦 76.5 kB Digunakan di GitHub Storage 
  > 
 > 🏆 42 Kontribusi pada 2025
  > 
@@ -64,7 +64,7 @@ JavaScript               4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2025 14:20:31 UTC
+ Last Updated on 18/04/2025 16:27:21 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
