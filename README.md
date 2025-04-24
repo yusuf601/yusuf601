@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-1-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-5-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 75.6 kB Digunakan di GitHub Storage 
+> 📦 89.4 kB Digunakan di GitHub Storage 
  > 
 > 🏆 43 Kontribusi pada 2025
  > 
@@ -13,18 +13,18 @@
  > 
 > 📜 63 Repositori publik 
  > 
-> 🔑 26 Repositori pribadi 
+> 🔑 27 Repositori pribadi 
  > 
 📅 **Paling produktif saat Jumat** 
 
 ```text
-Senin                    72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Selasa                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Rabu                     91 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Kamis                    105 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Jumat                    113 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Sabtu                    69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Minggu                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Senin                    72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Selasa                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Rabu                     91 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Kamis                    107 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Jumat                    113 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Sabtu                    69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Minggu                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 ```
 
 
@@ -63,7 +63,7 @@ JavaScript               4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2025 14:21:23 UTC
+ Last Updated on 24/04/2025 16:28:49 UTC
 <!--END_SECTION:waka-->
 # Todoist Stats
 
