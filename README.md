@@ -60,18 +60,3 @@ JavaScript               4 repos             ███░░░░░░░░�
 
 
 
-**Lini masa**
-
-![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
-
-
- Last Updated on 28/04/2025 11:08:29 UTC
-<!--END_SECTION:waka-->
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-🏆  1,474 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 37 tasks so far           
-⏳  Longest streak is 1 days
-<!-- TODO-IST:END -->
