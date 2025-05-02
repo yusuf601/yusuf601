@@ -3,18 +3,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-6-blue)
 
-**🐱 Dataku di GitHub** 
-
-> 📦 89.5 kB Digunakan di GitHub Storage 
- > 
-> 🏆 46 Kontribusi pada 2025
- > 
-> 💼 Sedang bisa dipekerjakan
- > 
-> 📜 64 Repositori publik 
- > 
-> 🔑 27 Repositori pribadi 
- > 
 📅 **Paling produktif saat Jumat** 
 
 ```text
