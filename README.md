@@ -48,4 +48,3 @@ JavaScript               4 repos             ██░░░░░░░░░�
  Last Updated on 29/05/2025 14:23:10 UTC
 <!--END_SECTION:waka-->
 
-https://www.codewars.com/users/KingYusuf/badges/large
