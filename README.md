@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.0%20million%20baris%20kode-blue)
 
@@ -46,6 +46,6 @@ JavaScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2025 14:24:42 UTC
+ Last Updated on 18/07/2025 16:32:25 UTC
 <!--END_SECTION:waka-->
 
