@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.0%20million%20baris%20kode-blue)
 
@@ -33,11 +33,11 @@ Linux                    21 hrs 41 mins      ███████████�
 **Kebanyakan menulis dalam bahasa C++** 
 
 ```text
-C++                      21 repos            ████████████░░░░░░░░░░░░░   46.67 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+C++                      22 repos            ████████████░░░░░░░░░░░░░   47.83 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
 
 
@@ -47,6 +47,6 @@ JavaScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yusuf601/yusuf601/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2025 04:48:15 UTC
+ Last Updated on 21/07/2025 06:37:42 UTC
 <!--END_SECTION:waka-->
 
