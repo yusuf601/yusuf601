@@ -18,7 +18,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # wajib
           ### meta
           API_BASE_URL: https://wakatime.com/api # opsional
-          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # opsional
+          REPOSITORY: yusuf601/yusuf601
           ### content
           SHOW_TITLE: true
           SECTION_NAME: waka
