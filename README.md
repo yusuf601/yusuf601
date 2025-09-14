@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-->
 📊 **Minggu ini menghabiskan waktu di** 
