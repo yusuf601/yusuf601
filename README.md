@@ -34,14 +34,57 @@ int main() {
 </details>
 
 <details>
-  <summary>// curious? open()</summary>
+  <summary>Try your luck... maybe it compiles 🤔</summary>
   
 ```bash
-# fake installer (visual only — does NOT run anything)
-$ sudo ./install.sh --quiet --no-network
-[ ok ] verifying components... done
-[ ok ] copying thoughts -> /home/yusuf/.ideas
-[ done ] everything compiled (in theory)
+#!/bin/bash
+# harmless demo: typewriter effect (paste-only visual)
+msg="hello from yusuf's dotfiles — keep exploring ✨"
+for ((i=0;i<${#msg};i++)); do
+  printf "%s" "${msg:i:1}"
+  sleep 0.03
+done
+printf "\n🚀 animation complete! thanks for being curious\n"
 ```
+
+</details>
+
+<details>
+  <summary>// system.check() 🔍</summary>
+  
+```bash
+$ ./yusuf-diagnostics.sh
+[■□□□□] initializing creativity.exe...
+[■■□□□] loading quantum thoughts...
+[■■■□□] compiling dreams into code...  
+[■■■■□] optimizing curiosity levels...
+[■■■■■] ready! all systems nominal ✅
+
+> status: caffeinated and coding 
+> uptime: ∞ days of learning
+> next.goal: master AI & quantum computing
+```
+
+</details>
+
+<details>
+  <summary>🎮 mini game: guess the output</summary>
+  
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int yusuf = 2024;
+    int ai_future = yusuf + 1;
+    
+    cout << "In " << ai_future << ", ";
+    cout << "AI will be " << (ai_future - yusuf) * 100 << "% more awesome!" << endl;
+    
+    // what does this print? 🤔
+    return 0;
+}
+```
+*Hint: It's about the future of AI! 🤖*
 
 </details>
