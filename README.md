@@ -9,8 +9,9 @@ HTML          7 hrs 3 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+## 🌌 A small piece of my universe
 <details>
-  <summary>Click to reveal hidden code 🐇✨</summary>
+  <summary>What if you click here? 🤔</summary>
 
 ```cpp
 #include <bits/stdc++.h>
