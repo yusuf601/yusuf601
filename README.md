@@ -15,24 +15,23 @@ HTML          7 hrs 3 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```cpp
 #include <bits/stdc++.h>
+#include <thread>
 using namespace std;
+using namespace std::chrono_literals;
 
 int main() {
     string msg = "Hello from Yusuf's GitHub! 🚀";
     for (char c : msg) {
-        this_thread::sleep_for(50ms); 
+        this_thread::sleep_for(50ms);
         cout << c << flush;
     }
     cout << "\nKeep exploring 👀" << endl;
+    return 0;
 }
-<details>
-<details>
-  <summary>// curious? open()</summary>
-
-```bash
+</details> <details> <summary>// curious? open()</summary>
+# fake installer (visual only — does NOT run anything)
 $ sudo ./install.sh --quiet --no-network
 [ ok ] verifying components... done
 [ ok ] copying thoughts -> /home/yusuf/.ideas
 [ done ] everything compiled (in theory)
-<details>
-
+</details>
