@@ -32,7 +32,9 @@ int main() {
 ```
 
 </details>
+<details>
+  <summary>👾 whoami?</summary>
+
 ```bash
 $ whoami && echo "just a shadow with a keyboard"
 yusuf
-```
