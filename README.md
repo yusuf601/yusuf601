@@ -9,32 +9,22 @@ HTML          7 hrs 3 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-## 🌌 A small piece of my universe
+<div align="center">
 
-<details>
-  <summary>What if you click here? 🤔</summary>
-  
-```cpp
-#include <bits/stdc++.h>
-#include <thread>
-using namespace std;
-using namespace std::chrono_literals;
+# 👾 just a shadow in the terminal
 
-int main() {
-    string msg = "Hello from Yusuf's GitHub! 🚀";
-    for (char c : msg) {
-        this_thread::sleep_for(50ms);
-        cout << c << flush;
-    }
-    cout << "\nKeep exploring 👀" << endl;
-    return 0;
-}
-```
+</div>
 
-</details>
-<details>
-  <summary>👾 whoami?</summary>
+---
 
 ```bash
-$ whoami && echo "just a shadow with a keyboard"
-yusuf
+🐧 neofetch
+
+yusuf@github
+-----------------
+OS: Arch Linux (btw)
+Shell: zsh
+Editor: Neovim
+Lang: C++, Python
+Mood: 0xCAFEBABE
+Motto: "just compiling life with -O3"
