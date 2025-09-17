@@ -10,11 +10,6 @@ HTML          7 hrs 3 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 # 👾 just a shadow in the terminal
-
-_low-profile. loud compiles._
-
----
-
 ## 🐧 neofetch
 ```bash
 yusuf@github
@@ -28,13 +23,13 @@ Lang: C++, Python
 Mood: 0xCAFEBABE
 Motto: "just compiling life with -O3"
 ```
-🖥️ uname -a (because kernel flex)
+## 🖥️ uname -a (because kernel flex)
 ```bash
 linux-yusuf 6.9.1-arch #1 SMP PREEMPT x86_64 GNU/Linux
 # compiled with warnings turned into experience
 C++ addict since 2023
 ```
-📂 ls -lah (my little filesystem poetry)
+$$ 📂 ls -lah (my little filesystem poetry)
 ```bash
 drwxr-xr-x   1 yusuf   shadow    4096 Sep 17  2025 ./
 drwxr-xr-x   1 root    root      4096 Sep 17  2025 ../
