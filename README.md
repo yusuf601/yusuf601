@@ -9,3 +9,18 @@ HTML          7 hrs 3 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+<details>
+  <summary>Click to reveal hidden code 🐇✨</summary>
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    string msg = "Hello from Yusuf's GitHub! 🚀";
+    for (char c : msg) {
+        this_thread::sleep_for(50ms); 
+        cout << c << flush;
+    }
+    cout << "\nKeep exploring 👀" << endl;
+}
