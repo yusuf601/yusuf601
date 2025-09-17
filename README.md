@@ -32,3 +32,6 @@ int main() {
 ```
 
 </details>
+```bash
+$ whoami && echo "just a shadow with a keyboard"
+yusuf
