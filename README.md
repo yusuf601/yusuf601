@@ -10,9 +10,10 @@ HTML          7 hrs 3 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 ## 🌌 A small piece of my universe
+
 <details>
   <summary>What if you click here? 🤔</summary>
-
+  
 ```cpp
 #include <bits/stdc++.h>
 #include <thread>
@@ -28,10 +29,19 @@ int main() {
     cout << "\nKeep exploring 👀" << endl;
     return 0;
 }
-</details> <details> <summary>// curious? open()</summary>
+```
+
+</details>
+
+<details>
+  <summary>// curious? open()</summary>
+  
+```bash
 # fake installer (visual only — does NOT run anything)
 $ sudo ./install.sh --quiet --no-network
 [ ok ] verifying components... done
 [ ok ] copying thoughts -> /home/yusuf/.ideas
 [ done ] everything compiled (in theory)
+```
+
 </details>
