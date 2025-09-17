@@ -25,6 +25,14 @@ int main() {
     }
     cout << "\nKeep exploring 👀" << endl;
 }
+<details>
+<details>
+  <summary>// curious? open()</summary>
 
-
+```bash
+$ sudo ./install.sh --quiet --no-network
+[ ok ] verifying components... done
+[ ok ] copying thoughts -> /home/yusuf/.ideas
+[ done ] everything compiled (in theory)
+<details>
 
