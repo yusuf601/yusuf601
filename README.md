@@ -29,7 +29,7 @@ linux-yusuf 6.9.1-arch #1 SMP PREEMPT x86_64 GNU/Linux
 # compiled with warnings turned into experience
 C++ addict since 2023
 ```
-$$ 📂 ls -lah (my little filesystem poetry)
+## 📂 ls -lah (my little filesystem poetry)
 ```bash
 drwxr-xr-x   1 yusuf   shadow    4096 Sep 17  2025 ./
 drwxr-xr-x   1 root    root      4096 Sep 17  2025 ../
